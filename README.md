@@ -1,6 +1,6 @@
 # Simple Algorithms in Python
 
-by Brendan Wakefield (2019)
+by Brendan Wakefield (2021)
 
 ### Description
 
